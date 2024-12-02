@@ -1,0 +1,32 @@
+h1{
+	color: purple;
+}
+
+body {
+	background: lightpink;
+}
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 5;
+	overflow: hidden;
+	position: relative;
+	top: 0;
+	background-color: lightcoral;
+}
+
+li {
+	float: left;
+}
+
+li a{
+	color: white;
+	font-size: 25px;
+	padding: 20px;
+}
+
+li a:hover{
+	color: black;
+	background-color: white;
+}
